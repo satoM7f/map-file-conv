@@ -12,8 +12,9 @@ GeoGuessr と map-making-app のインポート/エクスポートのファイ�
 - 「Save map-making-app data」にチェックを付けるとタグの情報などを含むが，GeoGuessrで読み込むときは無視される
 
 ## ファイル形式の仕様
-基本map-making-appのエクスポート形式に合わせる
-- なぜなら，**map-making-appのエクスポート形式は，map-making-appとGeoGeessrの両方でインポート可能**のため
+基本的にはGeoGuessrのエクスポート形式に合わせると良い
+- なぜなら，**GeoGuessrのエクスポート形式は，GeoGeessrとmap-making-appの両方でインポート可能**のため
+- GeoGeessrのエクスポート形式のJSONに，タグなどの情報を追加しても，GeoGuessrが必要な情報だけ取得してインポートしてくれる
 
 ### JSON構造と情報
 GeoGuessrにインポートするJSONファイルには，以下のJSON構造とアトリビュートが要求される
