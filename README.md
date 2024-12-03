@@ -13,10 +13,10 @@ GeoGuessr と map-making-app のインポート/エクスポートのファイ�
 
 ## ファイル形式の仕様
 基本map-making-appのエクスポート形式に合わせる
-- なぜなら，map-making-appのエクスポート形式は，map-making-appとGeoGeessrの両方でインポート可能のため
+- なぜなら，**map-making-appのエクスポート形式は，map-making-appとGeoGeessrの両方でインポート可能**のため
 
 ### JSON構造と情報
-GeoGuessr側ではインポートするJSONファイルに以下のJSON構造と情報が要求される
+GeoGuessrにインポートするJSONファイルには，以下のJSON構造とアトリビュートが要求される
 - 下記以外のアトリビュート（たとえば"extra"）は無視される
 - アトリビュートの順番は関係ない
 - JSONは括弧の種類（`[]`や`{}`）が違うと正しく認識しない場合があるため注意が必要
@@ -42,7 +42,7 @@ GeoGuessr側ではインポートするJSONファイルに以下のJSON構造と
 ```
 
 > [!NOTE]
-> とりあえず上記のJSON形式にすればOK
+> とりあえず上記のJSON形式にすればOK  
 > タグなどのアトリビュートも追加予定
 
 
