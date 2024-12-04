@@ -5,14 +5,7 @@
         "panoId": "PUwufn7lnBlqeQvV1cn0kA",
         "heading": 176.7014,
         "pitch": 0,
-        "zoom": 0,
-        "extra": {
-            "tags": [
-                "日本"
-            ],
-            "panoId": null,
-            "panoDate": null
-        }
+        "zoom": 0
     },
     {
         "lat": -21.00162656024436,
@@ -20,14 +13,7 @@
         "panoId": "CAoSLEFGMVFpcE55Y3YyOGxuQV9XSW9jdVFuek5JLXAteG00cmMweUwybHR3VDRI",
         "heading": 0,
         "pitch": 0,
-        "zoom": 0,
-        "extra": {
-            "tags": [
-                "France"
-            ],
-            "panoId": null,
-            "panoDate": null
-        }
+        "zoom": 0
     },
     {
         "lat": 56.31429288354419,
@@ -35,14 +21,7 @@
         "panoId": "CAoSLEFGMVFpcE9jbExyeWdBMTdtd2xidnR4SzFuQ0VHWV9hMzFOdnowT3RkaWdH",
         "heading": 0,
         "pitch": 0,
-        "zoom": 0,
-        "extra": {
-            "tags": [
-                "Canada"
-            ],
-            "panoId": null,
-            "panoDate": null
-        }
+        "zoom": 0
     },
     {
         "lat": 56.42701944483773,
@@ -50,14 +29,7 @@
         "panoId": "hLw-ySorjc3FniL19qosiw",
         "heading": 152.23093,
         "pitch": 0,
-        "zoom": 0,
-        "extra": {
-            "tags": [
-                "United Kingdom"
-            ],
-            "panoId": null,
-            "panoDate": null
-        }
+        "zoom": 0
     },
     {
         "lat": 65.25972702025796,
@@ -65,14 +37,7 @@
         "panoId": "bWqjWAEWTGguiEJTnABi7g",
         "heading": 294.82773,
         "pitch": 0,
-        "zoom": 0,
-        "extra": {
-            "tags": [
-                "Ísland"
-            ],
-            "panoId": null,
-            "panoDate": null
-        }
+        "zoom": 0
     },
     {
         "lat": 12.257427966155513,
@@ -80,14 +45,7 @@
         "heading": -9.483069312756804,
         "pitch": -61.140855927146546,
         "zoom": 1.2000375328508626,
-        "panoId": "NtOnmYbM_XpkvZKbDX8clQ",
-        "extra": {
-            "tags": [
-                "Curaçao"
-            ],
-            "panoId": null,
-            "panoDate": null
-        }
+        "panoId": "NtOnmYbM_XpkvZKbDX8clQ"
     },
     {
         "lat": 19.752593790354638,
@@ -95,13 +53,6 @@
         "heading": 3.631455521215571,
         "pitch": -15.122869930635531,
         "zoom": 0.16992644905765286,
-        "panoId": "dfrCf9kPCJ4vJviuP9pt9A",
-        "extra": {
-            "tags": [
-                "United States"
-            ],
-            "panoId": null,
-            "panoDate": null
-        }
+        "panoId": "dfrCf9kPCJ4vJviuP9pt9A"
     }
 ]
