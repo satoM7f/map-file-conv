@@ -1,0 +1,22 @@
+[
+    {
+        "lat": 33.7502712,
+        "lng": 10.9194667,
+        "heading": 71.19,
+        "pitch": 4.650000000000006,
+        "zoom": 2.589779517018932,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null
+    },
+    {
+        "lat": 48.8588443,
+        "lng": 2.2943506,
+        "heading": 90.0,
+        "pitch": 30.0,
+        "zoom": 2.0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null
+    }
+]

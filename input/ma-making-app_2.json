@@ -1,0 +1,39 @@
+{
+    "name": "import test",
+    "customCoordinates": [
+        {
+            "lat": 33.7502712,
+            "lng": 10.9194667,
+            "heading": 71.19,
+            "pitch": 4.650000000000006,
+            "zoom": 0,
+            "panoId": null,
+            "countryCode": null,
+            "stateCode": null,
+            "extra": {
+                "tags": [
+                    "aa"
+                ]
+            }
+        },
+        {
+            "lat": 48.8588443,
+            "lng": 2.2943506,
+            "heading": 90,
+            "pitch": 30,
+            "zoom": 0,
+            "panoId": null,
+            "countryCode": null,
+            "stateCode": null,
+            "extra": {
+                "tags": [
+                    "aa"
+                ]
+            }
+        }
+    ],
+    "extra": {
+        "tags": {},
+        "infoCoordinates": []
+    }
+}
